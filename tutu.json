@@ -669,14 +669,14 @@
     {
       "name": "全国IPV6①",
       "type": 0,
-      "url": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt",
       "playerType": 2,
       "logo": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
     },
     {
       "name": "IPV4全国IPV6②",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/tu2014/tufenggis/refs/heads/main/lib/ipv6.m3u",
       "playerType": 1
     },
     {
