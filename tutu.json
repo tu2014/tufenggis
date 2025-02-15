@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+  "spider": "./fty.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -313,6 +313,17 @@
       "name": "⚽88┃看球",
       "type": 3,
       "api": "csp_Sir88",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "看球",
+      "name": "⚽看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
       "searchable": 0,
       "changeable": 0,
       "style": {
