@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+  "spider": "./fty.jar;md5;7472da5d5d66556654e08770042564ab",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -691,9 +691,9 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "V6范明明",
+      "name": "聚合",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "./lib/live.txt",
       "playerType": 2
     },
     {
